@@ -1,0 +1,8 @@
+.cardData {
+  border: 1px solid white;
+  width: 38%;
+  padding: 30px;
+  margin: 20px;
+  display: inline-block;
+  border-radius: 10px;
+}
